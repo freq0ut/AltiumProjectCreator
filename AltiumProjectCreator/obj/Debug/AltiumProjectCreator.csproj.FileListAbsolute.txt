@@ -1,0 +1,50 @@
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe.config
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.pdb
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csprojAssemblyReference.cache
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Main.resources
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Properties.Resources.resources
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.GenerateResource.cache
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.exe
+C:\Users\Zack\Documents\Visual Studio 2017\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.pdb
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe.config
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.pdb
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csprojAssemblyReference.cache
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Main.resources
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Properties.Resources.resources
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.GenerateResource.cache
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.exe
+C:\Users\Zack\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe.config
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csprojAssemblyReference.cache
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Main.resources
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Properties.Resources.resources
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.GenerateResource.cache
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.exe
+C:\Users\zgoye\Google Drive\SHARED\VISUAL_STUDIO\Projects\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe.config
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csprojAssemblyReference.cache
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Main.resources
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Properties.Resources.resources
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.GenerateResource.cache
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.exe
+C:\Users\zgoye\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csprojAssemblyReference.cache
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.exe
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.pdb
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Main.resources
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.Properties.Resources.resources
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.GenerateResource.cache
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\obj\Debug\AltiumProjectCreator.csproj.CoreCompileInputs.cache
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe.config
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.exe
+C:\Users\zgoyetche\Desktop\AltiumProjectCreator\AltiumProjectCreator\bin\Debug\AltiumProjectCreator.pdb
